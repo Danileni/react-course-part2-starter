@@ -6,7 +6,7 @@ interface Todo {
     title: string;
     userId: number;
     completed: boolean;
-  }
+}
 
 const useTodos = () => {
     const fetchTodos = () => 
